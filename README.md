@@ -4,17 +4,12 @@
 
 【v2ray节点配置链接】
 
-香港01：
-vmess://eyJob3N0IjoiaGtiYTEuZnJlZWZseS5saWZlIiwicGF0aCI6IlwvZDRjZjZiOThcLyIsInRscyI6InRscyIsImFkZCI6ImhrYmExLmZyZWVmbHkubGlmZSIsInBvcnQiOjQ0MywiYWlkIjozMiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiLpppnmuK8gQkdQIEEx44CQ6Ieq55Sx6aOeLue9keWdgOOAkSMzNSIsImlkIjoiZDczOGRkZGQtZjVkZC00YjkwLThjYjgtMTFlNWQwNzM1ODE5In0=
-
-香港02：vmess://eyJob3N0IjoiaGswMi5mcmVlZmx5LmxpZmUiLCJwYXRoIjoiXC9nYW1lIiwidGxzIjoidGxzIiwiYWRkIjoiaGswMi5mcmVlZmx5LmxpZmUiLCJwb3J0Ijo0NDMsImFpZCI6MjMzLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6Iummmea4ryAwMiDjgJDluLjmm7TmlrDorqLpmIXkv53mjIHmnIDmlrDphY3nva7jgJEjMzIiLCJpZCI6ImE1Yjk4OTg4LTFiMDQtNDYyOS1hM2FkLTU2YWYwYzVjNTgyYiJ9
-
-香港03：
-vmess://eyJob3N0IjoiaGswMy5mcmVlZmx5LmxpZmUiLCJwYXRoIjoiXC9nYW1lIiwidGxzIjoidGxzIiwiYWRkIjoiaGswMy5mcmVlZmx5LmxpZmUiLCJwb3J0Ijo0NDMsImFpZCI6MjMzLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6Iummmea4ryAwM+OAkOiHqueUsemjni7nvZHlnYDjgJEjMzMiLCJpZCI6IjY0ODJmN2EyLTI2ZTItNDA2Mi05ODRmLTYyMGRiNWY4ZGIxYyJ9
-
-以上线路不定期更新。
+香港：
+vmess://YXV0bzpiMTVkOTAwZS1jNGFmLTNhODItOGQ3My0wYmM2N2I4MTdiNzFAaGsyLmRkZGQub29vOjQ0Mw?remarks=%E9%A6%99%E6%B8%AF%E4%B8%A8%E6%B3%A8%E5%86%8C%20eeee.ooo%20%E8%8E%B7%E5%8F%96%E6%9B%B4%E5%A4%9A%E8%8A%82%E7%82%B9&obfsParam=hk2.dddd.ooo&path=/life&obfs=websocket&tls=1
 
 【Trojan节点配置链接】
 注册体验
 
-免费线路速度较慢，获取属于自己的SSR/Trojan高速线路：<a href="https://eeee.ooo/auth/register?code=c9HR">eeee.ooo</a>
+免费线路速度较慢，获取属于自己的SSR/v2ray/Trojan高速线路：<a href="https://eeee.ooo/auth/register?code=c9HR">eeee.ooo</a>
+
+2020.08.14更新（不定期更新）
